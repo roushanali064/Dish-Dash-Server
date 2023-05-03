@@ -14,6 +14,13 @@ app.get('/chef',(req,res)=>{
     res.send(chefInfo)
 })
 
+app.get('/chef/:id',(req,res)=>{
+    const id = req.params.id;
+    console.log(id)
+    const singleChef = chefInfo.find(chef=>chef.id == id);
+    res.send(singleChef)
+})
+
 app.listen(port, () => {
     console.log('disdash running', port)
 })

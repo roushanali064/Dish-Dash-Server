@@ -1,51 +1,206 @@
-[
-    {
-      "id": 1,
-      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
-      "chefName": "John Doe",
-      "yearsOfExperience": 10,
-      "numberOfRecipes": 50,
-      "likes": 1000
-    },
-    {
-      "id": 2,
-      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
-      "chefName": "Jane Smith",
-      "yearsOfExperience": 5,
-      "numberOfRecipes": 30,
-      "likes": 500
-    },
-    {
-      "id": 3,
-      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
-      "chefName": "Mike Johnson",
-      "yearsOfExperience": 15,
-      "numberOfRecipes": 100,
-      "likes": 2000
-    },
-    {
-      "id": 4,
-      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
-      "chefName": "Sarah Lee",
-      "yearsOfExperience": 8,
-      "numberOfRecipes": 20,
-      "likes": 700
-    },
-    {
-      "id": 5,
-      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
-      "chefName": "David Kim",
-      "yearsOfExperience": 12,
-      "numberOfRecipes": 80,
-      "likes": 1500
-    },
-    {
-      "id": 6,
-      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
-      "chefName": "Emily Davis",
-      "yearsOfExperience": 3,
-      "numberOfRecipes": 10,
-      "likes": 300
-    }
-  ]
-  
+[{
+    "id": 1,
+    "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
+    "chefName": "John Doe",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "likes": 1000,
+    "recipe": [{
+        "_id": 1,
+        "recipeName": "Classic Margherita Pizza",
+        "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
+        "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Chicken Fajitas",
+        "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
+        "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
+        "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
+        "rating": 4.3
+      },
+      {
+        "recipeName": "Banana Bread",
+        "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
+        "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
+        "rating": 4.9
+      }
+    ]
+
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
+    "chefName": "Jane Smith",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 30,
+    "likes": 500,
+    "recipe": [{
+        "_id": 2,
+        "recipeName": "Classic Margherita Pizza",
+        "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
+        "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Chicken Fajitas",
+        "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
+        "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
+        "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
+        "rating": 4.3
+      },
+      {
+        "recipeName": "Banana Bread",
+        "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
+        "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
+    "chefName": "Mike Johnson",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 100,
+    "likes": 2000,
+    "recipe": [{
+        "_id": 3,
+        "recipeName": "Classic Margherita Pizza",
+        "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
+        "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Chicken Fajitas",
+        "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
+        "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
+        "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
+        "rating": 4.3
+      },
+      {
+        "recipeName": "Banana Bread",
+        "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
+        "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
+    "chefName": "Sarah Lee",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 20,
+    "likes": 700,
+    "recipe": [{
+        "_id": 4,
+        "recipeName": "Classic Margherita Pizza",
+        "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
+        "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Chicken Fajitas",
+        "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
+        "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
+        "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
+        "rating": 4.3
+      },
+      {
+        "recipeName": "Banana Bread",
+        "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
+        "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
+    "chefName": "David Kim",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 80,
+    "likes": 1500,
+    "recipe": [{
+        "_id": 5,
+        "recipeName": "Classic Margherita Pizza",
+        "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
+        "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Chicken Fajitas",
+        "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
+        "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
+        "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
+        "rating": 4.3
+      },
+      {
+        "recipeName": "Banana Bread",
+        "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
+        "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
+    "chefName": "Emily Davis",
+    "yearsOfExperience": 3,
+    "numberOfRecipes": 10,
+    "likes": 300,
+    "recipe": [{
+        "_id": 6,
+        "recipeName": "Classic Margherita Pizza",
+        "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
+        "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Chicken Fajitas",
+        "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
+        "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
+        "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
+        "rating": 4.3
+      },
+      {
+        "recipeName": "Banana Bread",
+        "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
+        "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
+        "rating": 4.9
+      }
+    ]
+  }
+]
