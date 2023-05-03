@@ -7,6 +7,7 @@
     "likes": 1000,
     "recipe": [{
         "_id": 1,
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Classic Margherita Pizza",
         "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
         "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
@@ -14,17 +15,20 @@
       },
       {
         "recipeName": "Chicken Fajitas",
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
         "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
         "rating": 4.5
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Beef Stroganoff",
         "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
         "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
         "rating": 4.3
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Banana Bread",
         "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
         "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
@@ -42,6 +46,7 @@
     "likes": 500,
     "recipe": [{
         "_id": 2,
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Classic Margherita Pizza",
         "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
         "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
@@ -49,17 +54,20 @@
       },
       {
         "recipeName": "Chicken Fajitas",
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
         "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
         "rating": 4.5
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Beef Stroganoff",
         "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
         "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
         "rating": 4.3
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Banana Bread",
         "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
         "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
@@ -76,24 +84,28 @@
     "likes": 2000,
     "recipe": [{
         "_id": 3,
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Classic Margherita Pizza",
         "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
         "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
         "rating": 4.8
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Chicken Fajitas",
         "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
         "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
         "rating": 4.5
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Beef Stroganoff",
         "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
         "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
         "rating": 4.3
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Banana Bread",
         "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
         "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
@@ -110,24 +122,28 @@
     "likes": 700,
     "recipe": [{
         "_id": 4,
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Classic Margherita Pizza",
         "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
         "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
         "rating": 4.8
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Chicken Fajitas",
         "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
         "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
         "rating": 4.5
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Beef Stroganoff",
         "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
         "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
         "rating": 4.3
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Banana Bread",
         "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
         "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
@@ -144,24 +160,28 @@
     "likes": 1500,
     "recipe": [{
         "_id": 5,
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Classic Margherita Pizza",
         "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
         "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
         "rating": 4.8
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Chicken Fajitas",
         "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
         "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
         "rating": 4.5
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Beef Stroganoff",
         "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
         "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
         "rating": 4.3
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Banana Bread",
         "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
         "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
@@ -178,24 +198,28 @@
     "likes": 300,
     "recipe": [{
         "_id": 6,
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Classic Margherita Pizza",
         "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Fresh basil", "Olive oil"],
         "cookingMethod": "1. Preheat the oven to 500°F. 2. Roll out the pizza dough on a floured surface. 3. Spread the tomato sauce over the dough. 4. Add slices of fresh mozzarella cheese.",
         "rating": 4.8
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Chicken Fajitas",
         "ingredients": ["Chicken breast", "Bell peppers", "Onion", "Lime", "Cumin"],
         "cookingMethod": "1. Cut the chicken into thin strips. 2. Cut the bell peppers and onion into thin slices. 3. Heat a large skillet over medium-high heat. 4. Add the chicken and cook for 3-4 minutes per side, until browned.",
         "rating": 4.5
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Beef Stroganoff",
         "ingredients": ["Beef sirloin", "Onion", "Mushrooms", "Sour cream"],
         "cookingMethod": "1. Cut the beef into thin strips. 2. Slice the onion and mushrooms. 3. Cook the egg noodles according to package instructions. 4. Heat a large skillet over medium-high heat.",
         "rating": 4.3
       },
       {
+        "img":"https://i.ibb.co/qC2f4g9/beef-strogans.jpg",
         "recipeName": "Banana Bread",
         "ingredients": ["Bananas", "Flour", "Sugar", "Eggs"],
         "cookingMethod": "1. Preheat the oven to 350°F. 2. Mash the bananas in a bowl. 3. Add the flour, sugar, eggs, and baking soda to the bowl. 4. Mix until well combined.",
