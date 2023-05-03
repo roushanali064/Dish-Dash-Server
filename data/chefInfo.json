@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chefPicture": "url-to-image-1",
+      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
       "chefName": "John Doe",
       "yearsOfExperience": 10,
       "numberOfRecipes": 50,
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "chefPicture": "url-to-image-2",
+      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
       "chefName": "Jane Smith",
       "yearsOfExperience": 5,
       "numberOfRecipes": 30,
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "chefPicture": "url-to-image-3",
+      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
       "chefName": "Mike Johnson",
       "yearsOfExperience": 15,
       "numberOfRecipes": 100,
@@ -25,7 +25,7 @@
     },
     {
       "id": 4,
-      "chefPicture": "url-to-image-4",
+      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
       "chefName": "Sarah Lee",
       "yearsOfExperience": 8,
       "numberOfRecipes": 20,
@@ -33,7 +33,7 @@
     },
     {
       "id": 5,
-      "chefPicture": "url-to-image-5",
+      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
       "chefName": "David Kim",
       "yearsOfExperience": 12,
       "numberOfRecipes": 80,
@@ -41,7 +41,7 @@
     },
     {
       "id": 6,
-      "chefPicture": "url-to-image-6",
+      "chefPicture": "https://i.ibb.co/YWQy7C9/portrait-smiling-chef-uniform-1.jpg",
       "chefName": "Emily Davis",
       "yearsOfExperience": 3,
       "numberOfRecipes": 10,
