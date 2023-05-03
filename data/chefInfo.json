@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "url-to-image-1",
+      "chefName": "John Doe",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 50,
+      "likes": 1000
+    },
+    {
+      "id": 2,
+      "chefPicture": "url-to-image-2",
+      "chefName": "Jane Smith",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 30,
+      "likes": 500
+    },
+    {
+      "id": 3,
+      "chefPicture": "url-to-image-3",
+      "chefName": "Mike Johnson",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 100,
+      "likes": 2000
+    },
+    {
+      "id": 4,
+      "chefPicture": "url-to-image-4",
+      "chefName": "Sarah Lee",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 20,
+      "likes": 700
+    },
+    {
+      "id": 5,
+      "chefPicture": "url-to-image-5",
+      "chefName": "David Kim",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 80,
+      "likes": 1500
+    },
+    {
+      "id": 6,
+      "chefPicture": "url-to-image-6",
+      "chefName": "Emily Davis",
+      "yearsOfExperience": 3,
+      "numberOfRecipes": 10,
+      "likes": 300
+    }
+  ]
+  
